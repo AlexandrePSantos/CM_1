@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboratory 1</string>
+
+    <string name="act1Txt">Activity 1</string>
+    <string name="act2Txt">Activity 2</string>
+    <string name="act2IdAluno">Alexandre Santos nº24585</string>
+
+    <string name="gotoAct2Btn">Go To Activity 2</string>
+    <string name="close_activity_2">Close Activity 2</string>
+</resources>

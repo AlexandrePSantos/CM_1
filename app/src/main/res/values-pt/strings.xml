@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratório 1</string>
+
+    <string name="act1Txt">Atividade 1</string>
+    <string name="act2Txt">Atividade 2</string>
+    <string name="act2IdAluno">Alexandre Santos nº24585</string>
+
+    <string name="gotoAct2Btn">Ir Para Atividade 2</string>
+    <string name="close_activity_2">Fechar Atividade 2</string>
+</resources>
